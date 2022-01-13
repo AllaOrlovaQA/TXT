@@ -1,1 +1,10 @@
-
+Bug Report
+ID Unic number
+Summary What_where_when  
+Description More informstion  
+STR   Steps to reproduce  
+AR   Actual result  
+ER   Expected result  
+Environment   OS_Device_Browser  
+Severity   How bug affects app  
+Attaches   Pictures/videos 
