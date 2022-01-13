@@ -1,0 +1,4 @@
+name  Alla Orlova
+age   38
+pets  cat-Murka,dog-Vise
+future sallary 3150 dollars
